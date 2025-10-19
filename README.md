@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/Vantalim">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3397F7&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Jasper+Gumora+👋;A+passionate+Full-Stack+Developer;from+the+Philippines+🇵🇭" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3397F7&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Jasper+Gumora+👋;A+passionate+Full-Stack+Developer;from+the+Philippines+🇵🇭&v=1" alt="Typing SVG" />
   </a>
 </div>
 
