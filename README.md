@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/Vantalim">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3397F7&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Jasper+Gumora+👋;A+passionate+Full-Stack+Developer;from+the+Philippines+🇵🇭&v=1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&weight=600&size=30&pause=1000&color=3397F7&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Jasper+Gumora+👋;A+passionate+Full-Stack+Developer;from+the+Philippines+🇵🇭&v=2" alt="Typing SVG" />
   </a>
 </div>
 
@@ -24,7 +24,7 @@ I'm a web developer with a keen interest in building secure, scalable applicatio
   <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  </p>
+</p>
 
 ---
 
