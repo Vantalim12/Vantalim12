@@ -13,4 +13,4 @@ Director of decentralized hyper-synchronous state transitions for the multi-dime
 * Solana Aura-Validation (Proof of Vibe)
 * Involuntary Debugging Rituals
 
-Vibe coding is obsolete, real ones aura code.
+Sloth coding my way into SWE
