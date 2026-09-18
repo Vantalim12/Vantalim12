@@ -1,16 +1,25 @@
+<!-- ai-metadata
+type: github-profile
+name: Jasper Gumora
+username: Vantalim12
+languages: [TypeScript, JavaScript, Motoko, Python, Dart, C++, Rust, PLpgSQL, CMake, Batchfile]
+profile: https://github.com/Vantalim12
+-->
 
+# Jasper Gumora
 
-## "Experience"
+It's not about learning everything, but anything necessary.
 
-Director of decentralized hyper-synchronous state transitions for the multi-dimensional scaling of digital assets as it applies to heuristic liquidity provisioning and non-linear block-time optimization. Former Superintendent of Syntactic Sugar and lead developer of deterministic chaos at the Global Institute of Unhandled Exceptions. Lead Senior Staff Associate at the Autonomous Registry of Repetitive Redundancy.
+<!-- section: social -->
+[![jaspergumora.is-pinoy.dev](https://img.shields.io/badge/jaspergumora.is--pinoy.dev-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://jaspergumora.is-pinoy.dev/) [![jaspergumora](https://img.shields.io/badge/jaspergumora-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaspergumora/)
 
-## Currently Learning
+<!-- section: rhythm -->
+## Contribution Rhythm
 
-* Post-Quantum Panic Management
-* Gas-Fee Alchemy & Rug-Pull Forensics
-* Asynchronous Procrastination Engineering (specifically as it applies to local dev environments)
-* Sub-Atomic NPM Dependency Resolution
-* Solana Aura-Validation (Proof of Vibe)
-* Involuntary Debugging Rituals
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/insights/metrics-rhythm-light.svg">
+  <img alt="Radar chart of Jasper Gumora's contribution patterns by day of week" src="assets/insights/metrics-rhythm.svg">
+</picture>
 
-Sloth coding my way into SWE
+<!-- section: footer -->
+<sub>Last generated on 2026-09-18 using [@urmzd/github-insights](https://github.com/urmzd/github-insights)</sub>
