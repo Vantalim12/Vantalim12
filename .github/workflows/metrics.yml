@@ -2,7 +2,7 @@ name: GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "17 0 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -19,7 +19,7 @@ jobs:
       - name: Generate left metrics
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN || github.token }}
+          token: ${{ secrets.METRICS_TOKEN }}
           user: Vantalim12
           filename: metrics_left.svg
 
@@ -47,7 +47,7 @@ jobs:
       - name: Generate right metrics
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN || github.token }}
+          token: ${{ secrets.METRICS_TOKEN }}
           user: Vantalim12
           filename: metrics_right.svg
 
